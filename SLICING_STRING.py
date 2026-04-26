@@ -1,0 +1,3 @@
+#SLICING PROGRAM OF STRING
+a="LOHITHA"
+print(a[1:5:2])
